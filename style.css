@@ -32,6 +32,7 @@ header{
   background: #197297;
   width: 800px;
   margin-left: 8cm;
+  margin-right: 8cm;
   padding: 20px;
   border-color: :#23174C;
   border-style: solid;
@@ -42,6 +43,7 @@ main{
   background: #D7F4EE;
   width: 840px;
   margin-left: 8cm;
+  margin-right:8cm;
   padding-top: 1cm;
   padding-left: 10;
   padding-right:10;
